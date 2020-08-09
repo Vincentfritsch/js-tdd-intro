@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5660a6c-a9a1-43d2-bddd-82ea1697f1fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd/exercises/multiply-recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd/exercises/multiply-recursive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Rectangle.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/Rectangle.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/capitalizeFirstLetters.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/capitalizeFirstLetters.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +78,7 @@
       <updated>1596912878433</updated>
       <workItem from="1596912880080" duration="332000" />
       <workItem from="1596957825542" duration="5478000" />
+      <workItem from="1596973470049" duration="3624000" />
     </task>
     <servers />
   </component>
