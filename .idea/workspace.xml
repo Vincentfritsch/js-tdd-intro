@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5660a6c-a9a1-43d2-bddd-82ea1697f1fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/capitalizeFirstLetters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitalizeFirstLetters.js" beforeDir="false" afterPath="$PROJECT_DIR$/capitalizeFirstLetters.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd/exercises/multiply-recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd/exercises/multiply-recursive.js" afterDir="false" />
@@ -43,7 +46,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fpR7LxxafoGA3XUjvevNdgjnOJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +59,12 @@
     <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="10.17.28" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596912878433</updated>
       <workItem from="1596912880080" duration="332000" />
+      <workItem from="1596957825542" duration="4035000" />
     </task>
     <servers />
   </component>
@@ -81,5 +93,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
