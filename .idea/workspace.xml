@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5660a6c-a9a1-43d2-bddd-82ea1697f1fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-training-tdd/exercises/multiply-recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-training-tdd/exercises/multiply-recursive.js" afterDir="false" />
@@ -74,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596912878433</updated>
       <workItem from="1596912880080" duration="332000" />
-      <workItem from="1596957825542" duration="5237000" />
+      <workItem from="1596957825542" duration="5478000" />
     </task>
     <servers />
   </component>
